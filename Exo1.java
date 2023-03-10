@@ -9,7 +9,7 @@ public class Exo1 {
     Scanner entrada = new Scanner(System.in);
     int numero;
 
-        System.out.println("Leer número: ");
+        System.out.println("Dame un numero: ");
         numero = entrada.nextInt();
 
         if(numero % 2 == 0){
