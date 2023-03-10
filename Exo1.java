@@ -20,7 +20,7 @@ public class Exo1 {
     }
         else{
         println(numero + " es impar");
-        for(int i=numero; i>=0; i-=2) {
+        for(int i=numero; i>=1; i-=2) {
             System.out.println(i);
         }
     }
